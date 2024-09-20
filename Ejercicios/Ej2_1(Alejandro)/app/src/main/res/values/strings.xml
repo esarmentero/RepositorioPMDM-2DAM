@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Ej2_1</string>
-    <string name="bienvenido">BIENVENIDOS</string>
-    <string name="Texto_informativo">Pulsa el botón para continuar</string>
-    <string name="botonSi">Si</string>
-    <string name="botonNo">No</string>
-</resources>
