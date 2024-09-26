@@ -1,0 +1,2 @@
+Ejemplo SplashScreen y cambiar logo: Javi
+Ejemplo Intents Clase 27/09: Bruno
