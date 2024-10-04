@@ -2,3 +2,4 @@ Ejemplo SplashScreen y cambiar logo: Javi
 Ejemplo Intents Clase 27/09: Bruno
 Ejemplo LinearLayout Clase 30/09: Iker
 Ejemplo Layouts Clase 02/10: Sofía
+Ejemplo Layouts Clase 04/10: Ruben
