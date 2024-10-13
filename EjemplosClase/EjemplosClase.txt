@@ -5,3 +5,5 @@ Ejemplo Layouts Clase 02/10: Sofía
 Ejemplo Layouts Clase 04/10: Ruben
 Ejemplo Animaciones Texto 07/10: Dani
 Ejemplo Animaciones 09/10: Alejandro
+Ejemplo ToggleButton: Elena
+Ejemplo Controles Basicos 14/10: Ivan
