@@ -8,3 +8,4 @@ Ejemplo Animaciones 09/10: Alejandro
 Ejemplo ToggleButton: Elena
 Ejemplo Controles Basicos 14/10-16/10: Ivan
 Ejemplo Controles Basicos (II) 16/10-18/10: Iker
+Ejemplo ProgressBar con AsyncTask 21/10: Bruno
